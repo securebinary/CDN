@@ -5,13 +5,6 @@
 </center>
 <br>
 
-- [LLMNR & NBT-NS Poisoning via Responder](#llmnr--nbt-ns-poisoning-via-responder)
-  - [Prologue](#prologue)
-  - [Attack Vector](#attack-vector)
-  - [Analysing with Responder](#analysing-with-responder)
-  - [Poisoning mNR Requests](#poisoning-mnr-requests)
-  - [Cracking NTLMv2 Hash](#cracking-ntlmv2-hash)
-
 ## Prologue
 
 Before we get into this blog, I wanna make sure that you understand what is ```LLMNR``` and ```NBT-NS``` and ```mDNS``` protocols are. These two protocols are widely used in ```Windows Environment``` which are ```enabled by default```. This poses a serious threat to the infrastructure, if it is being abused by attackers in the infrastructure network. The main goal of ```LLMNR``` and ```NBT-NS``` is to``` resolve the DNS hostnames``` from the client, when all other resolving methods are failed
