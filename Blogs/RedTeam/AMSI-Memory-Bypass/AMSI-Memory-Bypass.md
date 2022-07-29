@@ -4,15 +4,6 @@
 <img src="https://raw.githubusercontent.com/AidenPearce369/my-CDN/main/AMSI-Memory-Patch/logo.png" style="width:90%">
 </center>
 
-- [AMSI Bypass - Memory Patching](#amsi-bypass---memory-patching)
-  - [AMSI](#amsi)
-  - [AMSI Working Mechanism](#amsi-working-mechanism)
-  - [AMSI Internals](#amsi-internals)
-  - [Debugging amsi.dll](#debugging-amsidll)
-  - [Analysing AmsiScanString and AmsiScanBuffer](#analysing-amsiscanstring-and-amsiscanbuffer)
-  - [Patching amsi.dll](#patching-amsidll)
-  - [References](#references)
-
 ## AMSI
 
 AMSI or ```Anti Malware Scan Interface``` is a defensive mechanism used by ```PowerShell, UAC and many more``` to check whether a malicious data is being passed into it or not. It mostly targets the commands and  scripts which are being executed in the PowerShell or other AMSI integrated environment. If it detects any malicious content in it, AMSI terminates the execution and moves it to the ```Windows Defender``` for further analysis
