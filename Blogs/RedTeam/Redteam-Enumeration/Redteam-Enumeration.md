@@ -68,9 +68,7 @@ SeTimeZonePrivilege           Change the time zone                 Disabled
 
 We will also be using two most used tools for enumeration in a stealthy way
 
-1. PowerView
-
-    [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon)
+1. PowerView, [PowerSploit](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon)
 
     Can be installed from,
 
