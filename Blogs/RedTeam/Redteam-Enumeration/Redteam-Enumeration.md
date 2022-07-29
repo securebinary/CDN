@@ -1,20 +1,5 @@
 # Red Teaming - Enumeration Tactics
 
-- [Red Teaming - Enumeration Tactics](#red-teaming---enumeration-tactics)
-  - [Preface](#preface)
-  - [Basic Enumeration](#basic-enumeration)
-  - [Recommended Enumeration Tools](#recommended-enumeration-tools)
-  - [Enumerating Domain](#enumerating-domain)
-  - [Enumerating Users](#enumerating-users)
-  - [Enumerating User Properties](#enumerating-user-properties)
-  - [Enumerating Domain Policies](#enumerating-domain-policies)
-  - [Enumerating Computers](#enumerating-computers)
-  - [Enumerating Computer Properties](#enumerating-computer-properties)
-  - [Enumerating Groups](#enumerating-groups)
-  - [Enumerating Group Members](#enumerating-group-members)
-  - [Enumerating Groups Of A Specific User](#enumerating-groups-of-a-specific-user)
-  - [Enumerating Group Properties](#enumerating-group-properties)
-
 ## Preface
 
 In this blog post, we are going to cover AD enumeration techniques which are performed using native windows/active directory functions. The main reason to use these functions is to maintain stealth in an organization network to avoid unwanted detection by blue teamers.
