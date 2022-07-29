@@ -1,30 +1,19 @@
----
-title: "Vulnserver KSTET - Staged exploitation and Socket reusing"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple walkthrough on  Vulnserver KSTET using socket reusing and staged exploitation technique"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver KSTET - Staged exploitation and Socket reusing
 
-
-- [Prologue](#prologue)
-- [Spiking the vulnserver](#spiking-the-vulnserver)
-- [Analysing the source code](#analysing-the-source-code)
-- [Fuzzing the server](#fuzzing-the-server)
-- [Finding offset](#finding-offset)
-- [Overwriting instruction pointer](#overwriting-instruction-pointer)
-- [Finding bad characters](#finding-bad-characters)
-- [Redirecting code execution](#redirecting-code-execution)
-- [Stack pivoting](#stack-pivoting)
-- [Socket reusing](#socket-reusing)
-- [Adding socket reuse stager](#adding-socket-reuse-stager)
-- [Crafting shellcode](#crafting-shellcode)
-- [Exploitation](#exploitation)
+- [Vulnserver KSTET - Staged exploitation and Socket reusing](#vulnserver-kstet---staged-exploitation-and-socket-reusing)
+  - [Prologue](#prologue)
+  - [Spiking the vulnserver](#spiking-the-vulnserver)
+  - [Analysing the source code](#analysing-the-source-code)
+  - [Fuzzing the server](#fuzzing-the-server)
+  - [Finding offset](#finding-offset)
+  - [Overwriting instruction pointer](#overwriting-instruction-pointer)
+  - [Finding bad characters](#finding-bad-characters)
+  - [Redirecting code execution](#redirecting-code-execution)
+  - [Stack pivoting](#stack-pivoting)
+  - [Socket reusing](#socket-reusing)
+  - [Adding socket reuse stager](#adding-socket-reuse-stager)
+  - [Crafting shellcode](#crafting-shellcode)
+  - [Exploitation](#exploitation)
 
 ## Prologue
 

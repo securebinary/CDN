@@ -1,17 +1,6 @@
----
-title: "Vulnserver GTER - Staged exploitation and Egg hunting"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple walkthrough on  Vulnserver GTER using egg hunter and staged exploitation technique"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver GTER - Staged exploitation and Egg hunting
 
-- [Vulnserver GTER - Stack pivoting & Egg hunting](#vulnserver-gter---stack-pivoting--egg-hunting)
+- [Vulnserver GTER - Staged exploitation and Egg hunting](#vulnserver-gter---staged-exploitation-and-egg-hunting)
   - [Prologue](#prologue)
   - [Spiking the Vulnserver](#spiking-the-vulnserver)
   - [Analysing the source code](#analysing-the-source-code)

@@ -1,17 +1,6 @@
----
-title: "Vulnserver GTER - Staged exploitation and Socket reusing"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple walkthrough on  Vulnserver GTER using socket reusing and staged exploitation technique"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver GTER - Staged exploitation and Socket reusing
 
-- [Vulnserver GTER - Stack pivoting & Socket Reuse](#vulnserver-gter---stack-pivoting--socket-reuse)
+- [Vulnserver GTER - Staged exploitation and Socket reusing](#vulnserver-gter---staged-exploitation-and-socket-reusing)
   - [Prologue](#prologue)
   - [Stack pivoting](#stack-pivoting)
   - [Sockets](#sockets)

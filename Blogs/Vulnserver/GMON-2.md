@@ -1,17 +1,6 @@
----
-title: "Vulnserver GMON - SEH Overflow & Stack Pivoting"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple walkthrough on  Vulnserver GMON SEH overflow with stack pivoting"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver GMON - SEH Overflow & Stack Pivoting
 
-- [Windows 10 Exploit Development - SEH Overflow & Stack Pivoting](#windows-10-exploit-development---seh-overflow--stack-pivoting)
+- [Vulnserver GMON - SEH Overflow & Stack Pivoting](#vulnserver-gmon---seh-overflow--stack-pivoting)
   - [Prologue](#prologue)
   - [Stack Pivoting](#stack-pivoting)
   - [Finding the best way](#finding-the-best-way)

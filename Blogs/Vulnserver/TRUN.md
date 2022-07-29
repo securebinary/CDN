@@ -1,18 +1,6 @@
----
-title: "Vulnserver TRUN - Stack Buffer Overflow
-"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple walkthrough on  Vulnserver TRUN stack buffer overflow"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver TRUN - Stack Buffer Overflow
 
-- [Windows 10 Exploit Development - Stack Buffer Overflow](#windows-10-exploit-development---stack-buffer-overflow)
+- [Vulnserver TRUN - Stack Buffer Overflow](#vulnserver-trun---stack-buffer-overflow)
   - [Buffer Overflow](#buffer-overflow)
   - [Spiking the Vulnserver](#spiking-the-vulnserver)
   - [Analysing the Source Code](#analysing-the-source-code)

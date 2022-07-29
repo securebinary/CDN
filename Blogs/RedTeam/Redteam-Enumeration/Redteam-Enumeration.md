@@ -1,21 +1,6 @@
----
-title: "Red Teaming - Enumeration"
-classes: wide
-tag: 
-  - "red teaming"
-  - "active directory"
-  - "infrastrcture pentesting"
-  - "powershell"
-  - "enumeration"
-header:
-  teaser: /assets/images/redteam/redteam.png
-ribbon: red
-description: "A overview on Red Team enumeration tactics"
-categories:
-  - Offsec
----
+# Red Teaming - Enumeration Tactics
 
-- [RED TEAMING - ENUMERATION PHASE](#red-teaming---enumeration-phase)
+- [Red Teaming - Enumeration Tactics](#red-teaming---enumeration-tactics)
   - [Preface](#preface)
   - [Basic Enumeration](#basic-enumeration)
   - [Recommended Enumeration Tools](#recommended-enumeration-tools)

@@ -1,17 +1,6 @@
----
-title: "Vulnserver LTER - Bypass Restricted Characters"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple walkthrough on  Vulnserver LTER using encoders to bypass restricted characters"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver LTER - Bypass Restricted Characters
 
-- [Vulnserver LTER - Bypass restricted characters using Encoders](#vulnserver-lter---bypass-restricted-characters-using-encoders)
+- [Vulnserver LTER - Bypass Restricted Characters](#vulnserver-lter---bypass-restricted-characters)
 	- [Prologue](#prologue)
 	- [Spiking the Vulnserver](#spiking-the-vulnserver)
 	- [Analysing the source code](#analysing-the-source-code)

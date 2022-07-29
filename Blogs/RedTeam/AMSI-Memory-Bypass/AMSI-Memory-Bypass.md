@@ -1,19 +1,4 @@
----
-title: "AMSI Bypass - Memory Patching"
-classes: wide
-tag: 
-  - "red teaming"
-  - "active directory"
-  - "infrastrcture pentesting"
-  - "powershell"
-  - "amsi bypass"
-header:
-  teaser: /assets/images/redteam/redteam.png
-ribbon: red
-description: "A detailed blog about AMSI internals and patching AMSI through memory"
-categories:
-  - Offsec
----
+# AMSI Bypass - Memory Patching
 
 <center>
 <img src="https://raw.githubusercontent.com/AidenPearce369/my-CDN/main/AMSI-Memory-Patch/logo.png" style="width:90%">

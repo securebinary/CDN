@@ -1,19 +1,4 @@
----
-title: "LLMNR & NBT-NS Poisoning via Responder"
-classes: wide
-tag: 
-  - "red teaming"
-  - "active directory"
-  - "infrastrcture pentesting"
-  - "powershell"
-  - "enumeration"
-header:
-  teaser: /assets/images/redteam/redteam.png
-ribbon: red
-description: "A detailed blog about LLMNR & NBT-NS Poisoning using Responder"
-categories:
-  - Offsec
----
+# LLMNR & NBT-NS Poisoning via Responder
 
 <center>
 <img src="https://raw.githubusercontent.com/AidenPearce369/my-CDN/main/LLMNR-NBT-NS-Poisoning/24.png" style="width:80%">

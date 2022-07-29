@@ -1,17 +1,6 @@
----
-title: "Vulnserver GMON - SEH Overflow & Egg Hunting"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple walkthrough on  Vulnserver GMON SEH overflow & Egg hunting"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver GMON - SEH Overflow & Egg Hunting
 
-- [Windows 10 Exploit Development - SEH Overflow & Egg Hunting](#windows-10-exploit-development---seh-overflow--egg-hunting)
+- [Vulnserver GMON - SEH Overflow & Egg Hunting](#vulnserver-gmon---seh-overflow--egg-hunting)
   - [Structured Exception Handler (SEH)](#structured-exception-handler-seh)
   - [Spiking the GMON command](#spiking-the-gmon-command)
       - [NOTE](#note)

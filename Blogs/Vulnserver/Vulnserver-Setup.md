@@ -1,19 +1,8 @@
----
-title: "Vulnserver Setup - Prologue"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple guide to set up Vulnserver and insight about user land memory"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver Setup - Prologue
 
 In this series of blog post, we are going to see about the exploitation techniques in modern Windows systems. These things are very helpful for Offensive Security training and Red Teaming purposes. I aimed to cover the whole exploitation techniques that can be performed in this series which are available using our vulnerable application
 
-- [Windows 10 Exploit Development - Prologue](#windows-10-exploit-development---prologue)
+- [Vulnserver Setup - Prologue](#vulnserver-setup---prologue)
   - [Requirements](#requirements)
   - [Stack Memory](#stack-memory)
   - [Registers](#registers)

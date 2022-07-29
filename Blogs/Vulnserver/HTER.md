@@ -1,17 +1,6 @@
----
-title: "Vulnserver HTER - EIP Overwrite with Character conversion"
-classes: wide
-tag: 
-  - "windows exploitation"
-  - "vulnserver"
-header:
-  teaser: /assets/images/win-exp/windows-exp.png
-ribbon: blue
-description: "A simple walkthrough on  Vulnserver HTER vanilla EIP overwrite"
-categories: ['Exploit-Development','Windows-Exploitation','Vulnserver']
----
+# Vulnserver HTER - EIP Overwrite with Character conversion
 
-- [Windows 10 Exploit Development - EIP Overwrite with Character conversion](#windows-10-exploit-development---eip-overwrite-with-character-conversion)
+- [Vulnserver HTER - EIP Overwrite with Character conversion](#vulnserver-hter---eip-overwrite-with-character-conversion)
   - [Prologue](#prologue)
   - [Spiking the Vulnserver](#spiking-the-vulnserver)
   - [Analysing the source code](#analysing-the-source-code)
